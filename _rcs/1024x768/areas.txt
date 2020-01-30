@@ -1,0 +1,4 @@
+    default_area = np.array([948, 635, 983, 645])
+    equipment    = np.array([0, -57, 0, -57])
+    bomb         = np.array([0, -62, 0, -62])
+    defuse       = np.array([0, -30, 0, -30])
