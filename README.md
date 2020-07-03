@@ -38,6 +38,3 @@
     * [x] Gamers Club	
     * [x] EAC		
     * [x] FaceIT (only manual)
-
-    #### Demo
-    [![](http://img.youtube.com/vi/H-USt0oYJMo/0.jpg)](http://www.youtube.com/watch?v=H-USt0oYJMo "")
